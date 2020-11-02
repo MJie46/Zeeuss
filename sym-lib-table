@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rccar-rescue)(type Legacy)(uri /Users/MJie/Electronic/stm32/打板/project/rccar/rccar-rescue.lib)(options "")(descr ""))
+)
